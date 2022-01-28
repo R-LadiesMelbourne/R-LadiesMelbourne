@@ -1,4 +1,4 @@
-# Welcome to R Ladies Melbourne Inc
+# Welcome to R Ladies Melbourne Inc 🐨💜
 
 ## Who we are
 We are a registered non-profit organization and a local chapter of [R-Ladies Global](https://rladies.org/). Our aim is to promote gender diversity in the R community, both in Australia and worldwide. 
