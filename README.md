@@ -11,6 +11,6 @@ R-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you
 We host regular meet-ups, usually monthly or twice a month. We cover a range of topics from intro to advanced - for more information [click here to see the repo with all our previous events!](https://github.com/R-LadiesMelbourne/Links-to-Events-Repos). For our upcoming events make sure you check out our [Meetup page](https://www.meetup.com/rladies-melbourne/). You can also view most of our event recordings at our [Youtube channel](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow). 
 
 ## Join our community
-Follow us and join our vibrant online community on [Twitter @RLadiesMelb](https://twitter.com/RLadiesMelb) to stay up-to-date with our events and activities. We are always on the look out for speakers so do get in touch if you are interested! 
+Follow us and join our vibrant online community on Twitter [@RLadiesMelb](https://twitter.com/RLadiesMelb) to stay up-to-date with our events and activities. We are always on the look out for speakers so do get in touch if you are interested! 
 
 ## See you at our next meet-up 💜
